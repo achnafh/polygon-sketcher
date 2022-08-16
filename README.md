@@ -1,1 +1,1 @@
-# polygon-sketcher
+This program uses python with turtle library
